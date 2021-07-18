@@ -1,0 +1,75 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: verdana;
+  font-size: 100%;
+  
+}
+body{
+  background-color: #f0f8ff;
+  
+ 
+}
+
+ul{
+  list-style-type: none;
+}
+
+ul li{
+  background-color: #ff6347;
+  width: 180px;
+  height: 40px;
+  line-height: 35px;
+  cursor: pointer;
+  float: left;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 16px;
+  color: #FFF;
+  position: relative;
+  left: 230px;
+  top: -110px;
+  
+
+  
+  
+}
+
+ul li:hover{
+    background-color: ;
+}
+
+ul li ul li {
+  text-align: center;
+  box-sizing: border-box;
+  position: relative;
+  left: 00px;
+  top: 0px;
+  
+  
+}
+
+ul li ul {
+  display: none;
+}
+
+ul li:hover ul{
+  display: block;
+  color: #FFF;
+}
+
+img#logobem{
+  width: 200px;
+}
+
+img#familiabem{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 1100px;
+  top: 435px;
+}
+  
+  
+  
+  

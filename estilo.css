@@ -1,0 +1,92 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+body {
+		background-color: #f0f8ff;
+		color: black;
+		font-family: verdana;
+	  
+
+}
+input {
+	display: block;
+	height: 55px;
+	width: 400px;
+	margin: 10px;
+	border-radius: 30px;
+	border:1px solid gray;
+	font-size: 16pt;
+	padding: 10px 20px;
+	background-color: rgba(255,255,255,0.01);
+	color: black;
+	outline: none;
+} 
+
+div#corpo-form {
+	/*background-color:red;*/
+	width: 420px;
+	margin: 220px auto 0px auto;
+}
+
+div#corpo-form h1{
+	text-align: center;
+	padding: 10px;
+
+}
+
+a{
+	color: #1e90ff;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+}
+a:hover{
+	text-decoration: underline;
+}
+ 
+ input[type=submit]{
+ 	background-color: #ff6347;
+ 	border: none;
+ 	cursor: pointer;
+ }
+
+::-webkit-input-placeholder {
+	color: #c0c0c0;
+}
+
+:-moz-placeholder {
+	color: #c0c0c0;
+	}
+::-moz-placeholder {
+	color: #c0c0c0;
+}
+
+:-ms-input-placeholder {
+	color: #c0c0c0;
+	}
+
+div#msg-preencher{
+	width: 400px;
+	margin: 10px auto;
+	padding: 10px;
+	background-color: rgba(255,128,114,0.2);
+	border: 1px solid rgba (255,128,144);
+	border-radius: 20px;
+}
+
+img#logobem{
+	width: 450px;
+	height: 450px;
+	position: absolute;
+	left: 445px;
+	top: -120px;
+}
+
+img#familia{
+	width: 350px;
+	height: 350px;
+	position: absolute;
+	left: 0px;
+	top: 300px;
+}

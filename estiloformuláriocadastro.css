@@ -1,0 +1,173 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: #f0f8ff;
+  font-family: Verdana;
+  font-size: 100%;
+  font-weight: bold;
+}
+.container{
+  width: 1200px;
+  padding: 10px;
+  margin: auto;
+  margin-top: 70px;
+  
+}
+nav{
+  width: 300px;
+  height: 500px;
+  background-color: 
+  box-sizing: border-box;
+  padding: 10px;
+  float: left;  
+}
+section{    
+  margin-left: 10px;
+  float: left;
+  box-sizing: border-box;
+  padding: 20px;
+  float: left;
+  background-color: #fff;
+  border-radius: 15px;
+}
+fieldset{
+  padding: 15px;
+  width: 730px;
+}
+  
+
+.campos{
+  width: 150px;
+  height: 25px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  margin-top: 3px;
+   
+}
+.camponome{
+  width: 580px;
+  height: 25px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  margin-top: 3px;
+}
+.campoend{
+  width: 490px;
+  height: 25px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  margin-top: 3px;
+  
+}
+.campobs{
+  width: 600px;
+  height: 50px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  margin-top: 3px;
+}
+.numend{
+  width: 65px;
+  height: 25px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  margin-top: 3px;
+}
+
+.pontoref{
+  width: 545px;
+  height: 25px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  margin-top: 3px;
+}
+.btn{
+  width: 150px;
+  height: 45px;
+  border: 1px solid #ddd;
+  border-radius: 15px;
+  color: black;
+  font-size: 15px;
+  margin: auto;
+  font-weight: bold;
+  
+}
+
+ul.menu{
+  list-style-type: none;
+}
+
+ul.menu li{
+  width: 250px;
+  height: 40px;
+  line-height: 40px;
+  box-sizing: border-box;
+  padding-left: 10px;
+  margin-top: 5px;
+  cursor: pointer;
+  background-color: #F4A460;
+}
+
+ul.menu li:hover{
+  background-color: #D2691E;
+}
+
+.cadastrar{
+  background-color: #90EE90;
+  border: 2px solid #90EE90;
+  cursor: pointer;
+}
+
+.limpar{
+  background-color: #B0C4DE;
+  border: 2px solid #B0C4DE;
+  cursor: pointer;
+}
+
+.excluir{
+  background-color: #FF6347;
+  border: 2px solid #FF6347;
+  cursor: pointer;
+}
+h1{
+  font-size: 18px;
+  color: #F4A460;
+}
+
+hr{
+  color: #F4A460;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+.campo_vinculo
+{
+  width: 180px;
+  height: 25px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  margin-top: 3px;
+}
+.campo_local{
+  width: 250px;
+  height: 25px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  margin-top: 3px;
+}
+img#familia{
+  width: 200px;
+  position: absolute;
+  left: 110px;
+  top: 430px  
+}
+img#logobem{
+  width: 200px;
+  position: absolute;
+  left: 110px;
+  top: -60px;
+  
+}
